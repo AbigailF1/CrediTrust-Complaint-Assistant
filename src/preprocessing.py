@@ -50,8 +50,8 @@ df['cleaned_narrative'] = df['Consumer complaint narrative'].apply(clean_text)
 # -----------------------------
 # 5. Save cleaned dataset
 # -----------------------------
-os.makedirs("../data/processed", exist_ok=True)
-output_file = "../data/processed/filtered_complaints.csv"
+os.makedirs("data/processed", exist_ok=True)
+output_file = "data/processed/filtered_complaints.csv"
 df.to_csv(output_file, index=False)
 
 print(f"Preprocessed dataset saved to {output_file}")
