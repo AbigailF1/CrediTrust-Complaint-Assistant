@@ -154,6 +154,8 @@ Chatbot Interface
 How It Works / Example
 <img width="1054" height="908" alt="image_2025-09-12_11-27-27" src="https://github.com/user-attachments/assets/73573c1b-8842-4ff5-a8e0-13b7ae5bf060" />
 
+---
+
 ## 🔮 Future Improvements
 
 - Show actual complaint text instead of just IDs
