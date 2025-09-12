@@ -34,7 +34,7 @@ with st.expander("How it works"):
 **Topics you can ask about include:**  
 - Credit card issues  
 - Personal loans  
-- Buy Now, Pay Later (BNPL)  
+- Buy Now, Pay Later(BNPL)  
 - Savings accounts  
 - Money transfers  
 
